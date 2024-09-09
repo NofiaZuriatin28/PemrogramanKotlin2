@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab2fdfe3-31d5-46ee-b62c-42b84e6a6a9f" name="Changes" comment="add List_listOf.kt" />
+    <list default="true" id="ab2fdfe3-31d5-46ee-b62c-42b84e6a6a9f" name="Changes" comment="add mutableListOf.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,9 +35,9 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.MutableListOfKt">
-    <configuration name="Array2DimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2DimensiKt" />
+  <component name="RunManager" selected="Kotlin.ArrayListOfKt">
+    <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
       <module name="PemrogramanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayListOfKt" />
         <item itemvalue="Kotlin.MutableListOfKt" />
         <item itemvalue="Kotlin.List_listOfKt" />
         <item itemvalue="Kotlin.CollectionsKt" />
         <item itemvalue="Kotlin.ArrayMultidimensiKt" />
-        <item itemvalue="Kotlin.Array2DimensiKt" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725875395862</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add mutableListOf.kt">
+      <created>1725875731407</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725875731407</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +191,7 @@
     <MESSAGE value="add ArrayMultidimensi.kt" />
     <MESSAGE value="add Collections.kt" />
     <MESSAGE value="add List_listOf.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add List_listOf.kt" />
+    <MESSAGE value="add mutableListOf.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mutableListOf.kt" />
   </component>
 </project>
