@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab2fdfe3-31d5-46ee-b62c-42b84e6a6a9f" name="Changes" comment="add For_Loop.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/For_Loop_TablePerkalian.kt" afterDir="false" />
+    <list default="true" id="ab2fdfe3-31d5-46ee-b62c-42b84e6a6a9f" name="Changes" comment="add For_Loop_TablePerkalian.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kalkulator_ForLoop_Eksponensial.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.For_Loop_TablePerkalianKt">
+  <component name="RunManager" selected="Kotlin.Kalkulator_ForLoop_EksponensialKt">
     <configuration name="For_LoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_LoopKt" />
       <module name="PemrogramanKotlin2" />
@@ -53,15 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KalkulaatorPercabanganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KalkulaatorPercabanganKt" />
+    <configuration name="KalkulatorWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KalkulatorWhenKt" />
       <module name="PemrogramanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KalkulatorWhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KalkulatorWhenKt" />
+    <configuration name="Kalkulator_ForLoop_EksponensialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kalkulator_ForLoop_EksponensialKt" />
       <module name="PemrogramanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Kalkulator_ForLoop_EksponensialKt" />
         <item itemvalue="Kotlin.For_Loop_TablePerkalianKt" />
         <item itemvalue="Kotlin.For_LoopKt" />
         <item itemvalue="Kotlin.KalkulatorWhenKt" />
         <item itemvalue="Kotlin.WhenKt" />
-        <item itemvalue="Kotlin.KalkulaatorPercabanganKt" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725884370780</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add For_Loop_TablePerkalian.kt">
+      <created>1725884828549</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725884828549</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,6 +298,7 @@
     <MESSAGE value="add when.kt" />
     <MESSAGE value="add KalkulatorWhen.kt" />
     <MESSAGE value="add For_Loop.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add For_Loop.kt" />
+    <MESSAGE value="add For_Loop_TablePerkalian.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add For_Loop_TablePerkalian.kt" />
   </component>
 </project>
