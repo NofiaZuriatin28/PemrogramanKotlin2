@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab2fdfe3-31d5-46ee-b62c-42b84e6a6a9f" name="Changes" comment="add ArrayStandard.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayTipePrimitive.kt" afterDir="false" />
+    <list default="true" id="ab2fdfe3-31d5-46ee-b62c-42b84e6a6a9f" name="Changes" comment="add ArrayTipePrimitive.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayMethod.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +36,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ArrayTipePrimitiveKt">
+  <component name="RunManager" selected="Kotlin.ArrayMethodKt">
     <configuration name="ArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayKt" />
+      <module name="PemrogramanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayMethodKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayMethodKt" />
       <module name="PemrogramanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayMethodKt" />
         <item itemvalue="Kotlin.ArrayTipePrimitiveKt" />
         <item itemvalue="Kotlin.ArrayStandardKt" />
         <item itemvalue="Kotlin.ArrayKt" />
@@ -96,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725872564876</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add ArrayTipePrimitive.kt">
+      <created>1725872985267</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725872985267</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +129,7 @@
     <MESSAGE value="add Main.kt" />
     <MESSAGE value="add Array.kt" />
     <MESSAGE value="add ArrayStandard.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ArrayStandard.kt" />
+    <MESSAGE value="add ArrayTipePrimitive.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ArrayTipePrimitive.kt" />
   </component>
 </project>
