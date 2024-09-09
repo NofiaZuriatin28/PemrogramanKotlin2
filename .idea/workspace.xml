@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab2fdfe3-31d5-46ee-b62c-42b84e6a6a9f" name="Changes" comment="add KalkulaatorPercabangan.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulaatorPercabangan.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/When.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.KalkulaatorPercabanganKt">
+  <component name="RunManager" selected="Kotlin.WhenKt">
     <configuration name="KalkulaatorPercabanganKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KalkulaatorPercabanganKt" />
       <module name="PemrogramanKotlin2" />
@@ -78,8 +76,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.KalkulaatorPercabanganKt" />
         <item itemvalue="Kotlin.WhenKt" />
+        <item itemvalue="Kotlin.KalkulaatorPercabanganKt" />
         <item itemvalue="Kotlin.Percabangan2Kt" />
         <item itemvalue="Kotlin.PercabanganKt" />
         <item itemvalue="Kotlin.RangesKt" />
@@ -214,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725877804822</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add KalkulaatorPercabangan.kt">
+      <created>1725878506390</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725878506390</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,19 +252,5 @@
     <MESSAGE value="add Percabangan2.kt" />
     <MESSAGE value="add KalkulaatorPercabangan.kt" />
     <option name="LAST_COMMIT_MESSAGE" value="add KalkulaatorPercabangan.kt" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/KalkulaatorPercabangan.kt</url>
-          <properties method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
