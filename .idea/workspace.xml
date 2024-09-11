@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab2fdfe3-31d5-46ee-b62c-42b84e6a6a9f" name="Changes" comment="add Return.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Label.kt" afterDir="false" />
+    <list default="true" id="ab2fdfe3-31d5-46ee-b62c-42b84e6a6a9f" name="Changes" comment="add Label.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Nul_Safety.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +40,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.LabelKt">
+  <component name="RunManager" selected="Kotlin.OperatorKt">
     <configuration name="BreakAndContiniueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreakAndContiniueKt" />
-      <module name="PemrogramanKotlin2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KalkulatorWhileLoopSederhanaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KalkulatorWhileLoopSederhanaKt" />
       <module name="PemrogramanKotlin2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,6 +55,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Nul_SafetyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nul_SafetyKt" />
+      <module name="PemrogramanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatorKt" />
+      <module name="PemrogramanKotlin2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReturnKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReturnKt" />
       <module name="PemrogramanKotlin2" />
@@ -67,20 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhiledanDoWhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhiledanDoWhileLoopKt" />
-      <module name="PemrogramanKotlin2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.OperatorKt" />
+        <item itemvalue="Kotlin.Nul_SafetyKt" />
         <item itemvalue="Kotlin.LabelKt" />
         <item itemvalue="Kotlin.ReturnKt" />
         <item itemvalue="Kotlin.BreakAndContiniueKt" />
-        <item itemvalue="Kotlin.WhiledanDoWhileLoopKt" />
-        <item itemvalue="Kotlin.KalkulatorWhileLoopSederhanaKt" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725887608420</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="add Label.kt">
+      <created>1725888141822</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1725888141822</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,7 +320,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ArrayStandard.kt" />
     <MESSAGE value="add ArrayTipePrimitive.kt" />
     <MESSAGE value="add ArrayMethod.kt" />
     <MESSAGE value="add Array2Dimensi.kt" />
@@ -336,6 +344,7 @@
     <MESSAGE value="add WhiledanDoWhileLoop.kt" />
     <MESSAGE value="add BreakAndContiniue.kt" />
     <MESSAGE value="add Return.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Return.kt" />
+    <MESSAGE value="add Label.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Label.kt" />
   </component>
 </project>
